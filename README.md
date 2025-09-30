@@ -28,24 +28,45 @@ O sistema utiliza **vetores** e **orientação a objetos (POO)** para cadastrar 
    
    Quantos quartos serão alugados? 2
 
+   ----------------------
+
     Quarto alugado #1:
+   
     Nome: João Silva
+   
     Email: joao@email.com
+   
     Quarto: 3
+
+   ----------------------
     
     Quarto alugado #2:
+   
     Nome: Maria Souza
+   
     Email: maria@email.com
+   
     Quarto: 5
+
+   ----------------------
     
     Quartos ocupados:
+   
     3: João Silva, joao@email.com
+   
     5: Maria Souza, maria@email.com
 
+   ----------------------
+
 src/
+
  ├── entities/
- │   └── DadosEstudantes.java   # Classe que representa um estudante
+ 
+ │   └── DadosEstudantes.java  # Classe que representa um estudante
+ 
  └── Pensionato.java            # Classe principal com a lógica do programa
+
+ ----------------------
 
  📌 Objetivo
 
